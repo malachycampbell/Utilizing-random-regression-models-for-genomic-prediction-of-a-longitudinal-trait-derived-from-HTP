@@ -1,5 +1,5 @@
 <h1 align="center">
-  <alt=" Utilizing random-regression models for genomic prediction of a longitudinal trait derived from HTP" />
+  <img alt=" Utilizing random-regression models for genomic prediction of a longitudinal trait derived from HTP" />
 </h1>
 
 ## Abstract
