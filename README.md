@@ -1,6 +1,7 @@
 <h1 align="center">
   <img alt=" Utilizing random regression models for genomic prediction of a longitudinal trait derived from high-throughput hpenotyping platforms" />
 </h1>
+
 [Malachy Campbell](https://malachycampbell.github.io/), [Harkamal Walia](http://cropstressgenomics.org/), [Gota Morota](http://morotalab.org/)
 
 ## Abstract
