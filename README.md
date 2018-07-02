@@ -13,26 +13,26 @@ This repo contains all the code and data used for the manuscript: "Utilizing ran
 ## Table of Contents
 
 * **1. Preparation of Phenotypic data**
-  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/1.Phenoprep.Rmd)
   - [html output](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/HTMLoutput/1.Phenoprep.html)
+  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/1.Phenoprep.Rmd)
 * **2. Preparing the 44k SNP data**
-  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/2.Genoprep.Rmd)
   - [html output](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/HTMLoutput/2.Genoprep.html)
+  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/2.Genoprep.Rmd)
 * **3. Selection of Random Regression model**
-  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/3.RRmodelselection.Rmd)
   - [html output](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/HTMLoutput/3.RRmodelselection.html)
+  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/3.RRmodelselection.Rmd)
 * **4. Estimating heritability and genetic correlation of shoot growth**
-  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/4.Heritability.Rmd)
   - [html output](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/HTMLoutput/4.Heritability.html)
+  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/4.Heritability.Rmd)
 * **5. Scenario A: Genomic Prediction Using Random Regression and Single Time Point gBLUP**
-  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/5.ScenarioA.Rmd)
   - [html output](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/HTMLoutput/5.ScenarioA.html)
+  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/5.ScenarioA.Rmd)
 * **6. Scenarios B and C: Forecasting Future Phenotypes with Random Regression Models**
-  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/6.ScenariosBandC.Rmd)
   - [html output](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/HTMLoutput/6.ScenariosBandC.html)
+  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/6.ScenariosBandC.Rmd)
 * **7. Scenario D: Forecasting Future Phenotypes in an Independent Study with Random Regression Models**
-  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/7.ScenarioD.Rmd)
   - [html output](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/HTMLoutput/7.ScenarioD.html)
+  - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/7.ScenarioD.Rmd)
 
 ## Funding
 *Funding for this project was provided by the National Science Foundation through the Plant Genome Reasearch Program grant [(#1238125)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1238125) awrded to HW and a Research Infrastructure Improvement (RII) Track-2 Focused EPSCoR grant [(#1736192)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1736192) awarded to HW and GM.*
