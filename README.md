@@ -27,6 +27,6 @@ This repo contains all the code and data used for the manuscript: "Utilizing ran
 
 ## Funding
 <img align = "left" alt="WRCHR" src = WRCHR.png width = "200" height = "65.43491">
-<img align = "left" alt="NSF" src = nsf_logo1.png width = "65.43491" height = "65.43491">
+<img align = "left" alt="NSF" src = nsf_logo.png width = "65.43491" height = "65.43491"/>
 
 *Funding for this project was provided by the National Science Foundation through the Plant Genome Reasearch Program grant [(#1238125)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1238125) awrded to HW and a Research Infrastructure Improvement (RII) Track-2 Focused EPSCoR grant [(#1736192)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1736192) awarded to HW and GM.*
