@@ -24,3 +24,7 @@ This repo contains all the code and data used for the manuscript: "Utilizing ran
    - [html output](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/Rmarkdownfiles/5.ScenarioA.html)
 * **6. Scenario B and C: Forecasting Future Phenotypes with Random Regression Models**
    - [html output]
+
+<h1 align="center">
+  <img alt="WRCHR" src = WRCHR.png>
+</h1>
