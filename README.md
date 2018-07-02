@@ -26,5 +26,5 @@ This repo contains all the code and data used for the manuscript: "Utilizing ran
    - [html output]
 
 <h1 align="center">
-  <img align = "left" alt="WRCHR" src = WRCHR.png width = "20", height = "6.543491">
+  <img align = "left" alt="WRCHR" src = WRCHR.png width = "20" height = "6.543491">
 </h1>
