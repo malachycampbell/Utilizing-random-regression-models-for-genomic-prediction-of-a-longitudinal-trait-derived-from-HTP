@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt=" Utilizing random regression models for genomic prediction of a longitudinal trait derived from high-throughput phenotyping platforms" width = "171.1846" height = "20" src = Title.svg>
+  <img alt=" Utilizing random regression models for genomic prediction of a longitudinal trait derived from high-throughput phenotyping platforms" width = "1711.846" height = "200" src = Title.svg>
 </h1>
 
 [Malachy Campbell](https://malachycampbell.github.io/), [Harkamal Walia](http://cropstressgenomics.org/), [Gota Morota](http://morotalab.org/)
