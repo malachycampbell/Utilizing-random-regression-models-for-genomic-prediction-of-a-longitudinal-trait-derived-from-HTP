@@ -12,16 +12,16 @@ This repo contains all the code and data used for the manuscript: "Utilizing ran
 
 ## Table of Contents
 
-* **1. Preparation of Phenotypic data**
+* **1. Preparation of Phenotypic Data**
   - [html output](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/HTMLoutput/1.Phenoprep.html)
   - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/1.Phenoprep.Rmd)
-* **2. Preparing the 44k SNP data**
+* **2. Preparing the 44k SNP Data**
   - [html output](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/HTMLoutput/2.Genoprep.html)
   - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/2.Genoprep.Rmd)
-* **3. Selection of Random Regression model**
+* **3. Selection of Random Regression Model**
   - [html output](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/HTMLoutput/3.RRmodelselection.html)
   - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/3.RRmodelselection.Rmd)
-* **4. Estimating heritability and genetic correlation of shoot growth**
+* **4. Estimating Heritability and Genetic Correlation of Shoot Growth**
   - [html output](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/HTMLoutput/4.Heritability.html)
   - [.Rmd File](https://rawgit.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/master/Rmarkdownfiles/4.Heritability.Rmd)
 * **5. Scenario A: Genomic Prediction Using Random Regression and Single Time Point gBLUP**
