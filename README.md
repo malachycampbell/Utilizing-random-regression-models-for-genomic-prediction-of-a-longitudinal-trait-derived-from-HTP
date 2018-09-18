@@ -1,8 +1,6 @@
----
-title: "Utilizing random regression models for genomic prediction of a longitudinal trait derived from high-throughput phenotyping platforms"
-permalink: http://github.com/malachycampbell/Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP/README
-author_profile: true
----
+<h1 align="center">
+  <img alt=" Utilizing random regression models for genomic prediction of a longitudinal trait derived from high-throughput phenotyping platforms" width = "1711.846" height = "200" src = Title.svg>
+</h1>
 
 [Malachy Campbell](https://malachycampbell.github.io/), [Harkamal Walia](http://cropstressgenomics.org/), [Gota Morota](http://morotalab.org/)
 
